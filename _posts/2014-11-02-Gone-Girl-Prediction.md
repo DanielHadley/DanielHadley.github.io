@@ -10,7 +10,7 @@ When I first started using R for data analysis, I was mesmerized by all of the p
 
 Gone Girl, the bestselling novel that was recently adapted into a [film](http://www.rottentomatoes.com/m/gone_girl/) starring Ben Affleck, was the perfect proof of concept. The book is divided evenly into chapters narrated by the two leading characters, Nick and Amy. Could an ML algorithm differentiate between the two using only stop words? That mystery was just as intriguing to me as what happened to Amy.
 
-![_config.yml]({{ site.baseurl }}/images/Gone-Girl.jpg) 
+![_config.yml]({{ site.baseurl }}/images/Gone-Girl.JPG) 
 
 ### Preparing the Data
 Fortunately for me, a [group of scholars](https://sites.google.com/site/computationalstylistics/) from Europe had created a terrific R script (now a package) that allowed me to do some initial analysis and divide the novel into a document-term dataframe, with rows for each chapter and columns for the frequency of each word. That is [authorship.txt](https://github.com/DanielHadley/WordprintAuthorPrediction/blob/master/GoneGirl%20/authorship.txt).
