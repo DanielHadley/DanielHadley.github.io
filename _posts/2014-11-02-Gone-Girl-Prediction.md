@@ -8,7 +8,9 @@ I wanted to see if it was possible to train a model to detect the difference bet
 ### Background
 When I first started using R for data analysis, I was mesmerized by all of the packages and what they made possible. This piece of analysis was one of my first experiments in text processing, machine learning and [stylometry](http://en.wikipedia.org/wiki/Stylometry) - all made accessible to me because of the open source work of thousands of people who came before me. The reason I selected this challenge in particular is because I once read an article that seemed to suggest that an author's "wordprint" - that is, the statistical variation in how frequently he or she uses common words - is similar to a finger print in the sense that it can be used to identify the author. I wanted to see if a clever author could create more than one linguistic "finger print" for her characters. 
 
-Gone Girl, the bestselling novel that was recently adapted into a [film](http://www.rottentomatoes.com/m/gone_girl/) starring Ben Affleck, was the perfect proof of concept. The book is divided evenly into chapters narrated by the two leading characters, Nick and Amy. Could an ML algorithm differentiate between the two using only stop words?
+Gone Girl, the bestselling novel that was recently adapted into a [film](http://www.rottentomatoes.com/m/gone_girl/) starring Ben Affleck, was the perfect proof of concept. The book is divided evenly into chapters narrated by the two leading characters, Nick and Amy. Could an ML algorithm differentiate between the two using only stop words? That mystery was just as intriguing to me as what happened to Amy.
+
+![_config.yml]({{ site.baseurl }}/images/Gone-Girl.jpg) 
 
 ### Preparing the Data
 Fortunately for me, a [group of scholars](https://sites.google.com/site/computationalstylistics/) from Europe had created a terrific R script (now a package) that allowed me to do some initial analysis and divide the novel into a document-term dataframe, with rows for each chapter and columns for the frequency of each word. That is [authorship.txt](https://github.com/DanielHadley/WordprintAuthorPrediction/blob/master/GoneGirl%20/authorship.txt).
