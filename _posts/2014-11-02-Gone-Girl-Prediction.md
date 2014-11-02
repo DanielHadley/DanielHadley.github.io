@@ -16,7 +16,8 @@ Fortunately for me, a [group of scholars](https://sites.google.com/site/computat
 ### Training the model
 It was important to avoid using proper nouns or other words that would immediately give away the fictional author's identity. For instance, including "Nick" in the model would produce results that are blatantly obvious, even without an ML algorithm.
 
-```
+{% highlight R %}
+
 library(randomForest)
 
 setwd("~/Documents/Git/WordprintAuthorPrediction/GoneGirl ")
@@ -39,7 +40,8 @@ authorship.model.rf = randomForest(author ~ the + a + to + and + of + it + was +
 authorship.test$pred.author.rf = predict(authorship.model.rf, authorship.test, type="response")
 table(authorship.test$author, authorship.test$pred.author.rf)
 prop.table(table(authorship.test$author, authorship.test$pred.author.rf),1)  
-```
+
+{% endhighlight %}
 
 ### Results
 As I mentioned in the opening paragraph, the randomForest model correctly selected Nick 93% of the time and Amy 91%. This was even better than I expected at the outset. It essentially means that if you were to strip the novel of all of its text, except for the ten or so filler words I trained on, a computer could still tell the fictional authors apart. It seems that the "wordprint" is not an immutable characteristic of the novel's actual author, Gillian Flynn, but rather something that changes in subtle, yet detectable ways, when the author is channeling her different characters. 
