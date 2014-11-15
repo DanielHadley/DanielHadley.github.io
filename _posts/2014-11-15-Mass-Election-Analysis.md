@@ -49,9 +49,9 @@ Here are the top 15 by population:
 
 You can see that this is just as much a measure of a strong divide within the place as it is a measure of "independence." Nonetheless, it does shed some light on which places could be said to be the most partisan:
 
-![_config.yml]({{ site.baseurl }}/images/2015_Elections/plot14.png)
+![_config.yml]({{ site.baseurl }}/images/2014_Elections/plot15.png)
 
-![_config.yml]({{ site.baseurl }}/images/2016_Elections/plot14.png)
+![_config.yml]({{ site.baseurl }}/images/2014_Elections/plot16.png)
 
 The top republican strongholds all have populations under 20,000, while democratic places are a mix of inner cities and small towns. Interestingly, Boston did not make the top 15. 
 
@@ -61,15 +61,15 @@ Just for fun, I checked results against census data. There are not too many qual
 
 Baker tended to do better in places with a high percentage of households with children under 18 ...
 
-![_config.yml]({{ site.baseurl }}/images/2016_Elections/plot17.png)
+![_config.yml]({{ site.baseurl }}/images/2014_Elections/plot17.png)
 
 ... and in wealthier municipalities:
 
-![_config.yml]({{ site.baseurl }}/images/2016_Elections/plot20.png)
+![_config.yml]({{ site.baseurl }}/images/2014_Elections/plot20.png)
 
 But higher education was not correlated at all on the municipal level (sorry to anyone who wanted to ascribe the election results to education levels of towns and cities):
 
-![_config.yml]({{ site.baseurl }}/images/2016_Elections/plot19.png)
+![_config.yml]({{ site.baseurl }}/images/2014_Elections/plot19.png)
 
 
 ### Conclusion
