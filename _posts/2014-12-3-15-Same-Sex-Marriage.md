@@ -3,15 +3,15 @@ layout: post
 title: The Political and Public Opinion of Same-Sex Marriage, by State
 ---
 
-As 2014 draws to a close and we prepare for a new set of politicians to take office, I thought I would take advantage of all of the data that exists to create this map of current opponents to same-sex marriage:
+As 2014 draws to a close and we prepare for a new set of politicians to take office, I thought I would take advantage of all of the data that exists to create this map of current opponents of same-sex marriage:
 
 ![_config.yml](https://raw.githubusercontent.com/DanielHadley/SameSexMarriage/master/plotsForBlog/GMapOpposedFinal.png)
 
-There are six states where the governor, and all of the congress members are on record opposing gay marriage - Oklahoma being the largest:
+There are six states where the governor and all of the congress members are on record opposing gay marriage, Oklahoma being the largest:
 
 ![_config.yml](https://raw.githubusercontent.com/DanielHadley/SameSexMarriage/master/plotsForBlog/plot03.png)
 
-I scrapped these data from [two](http://en.wikipedia.org/wiki/List_of_supporters_of_same-sex_marriage_in_the_United_States) [excellent](http://en.wikipedia.org/wiki/List_of_opponents_of_same-sex_marriage_in_the_United_States) wikipedia lists, which seem rather complete for the political offices I analyzed. 
+I scraped these data from [two](http://en.wikipedia.org/wiki/List_of_supporters_of_same-sex_marriage_in_the_United_States) [excellent](http://en.wikipedia.org/wiki/List_of_opponents_of_same-sex_marriage_in_the_United_States) wikipedia lists, which seem rather complete for the political offices I analyzed. 
 
 As you might expect, the map of supporters reads almost as the inverse of opponents, with Hawaii, Delaware and parts of New England electing 100% supporters to congress and the governor's office:
 
@@ -19,7 +19,7 @@ As you might expect, the map of supporters reads almost as the inverse of oppone
 
 ### Public Opinion
 
-Here is a map of recent polling data:
+Here is a map of recent polling data, which were also scraped from wikipedia and [analyzed](https://github.com/DanielHadley/SameSexMarriage/blob/master/MungeData.R) in R:
 
 ![_config.yml](https://raw.githubusercontent.com/DanielHadley/SameSexMarriage/master/plotsForBlog/Map4.png)
 
