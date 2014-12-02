@@ -15,3 +15,5 @@ But the real reason I love working here is the chance to make an immediate diffe
 ### Contact me
 
 [dhadley@somervillema.gov](mailto:dhadley@somervillema.gov)
+
+![_config.yml]({{ site.baseurl }}/images/2014_Bio/DanielHadley3.jpg)
