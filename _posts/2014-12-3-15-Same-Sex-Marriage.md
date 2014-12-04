@@ -29,17 +29,11 @@ The politicians plot has more weight on the tails of the distribution, which wou
 
 ## Public vs. Political
 
-Nevertheless, the data indicate that statewide politicians appear to be more conservative than their constituents in many cases.
-
-![_config.yml](https://raw.githubusercontent.com/DanielHadley/SameSexMarriage/master/plotsForBlog/Map6.png)
-
-There are at least six places where the governor's stance runs counter to his or her constituents' views. 
+Nevertheless, the data indicate that statewide politicians appear to be more conservative than their constituents in many cases. There are at least six places where the governor's stance runs counter to his or her constituents' views. 
 
 ![_config.yml](https://raw.githubusercontent.com/DanielHadley/SameSexMarriage/master/plotsForBlog/plot07.png)
 
 The same is true of some senators.
-
-![_config.yml](https://raw.githubusercontent.com/DanielHadley/SameSexMarriage/master/plotsForBlog/Map7.png)
 
 ![_config.yml](https://raw.githubusercontent.com/DanielHadley/SameSexMarriage/master/plotsForBlog/plot08.png)
 
@@ -50,19 +44,7 @@ The only place I could find where the opposite is true - a senator approves whil
 
 On another thread, [one redditor](http://www.reddit.com/r/MapPorn/comments/2o7ixt/percent_of_politicians_who_support_samesex/cmkno4d) made a helpful table of places with and without a state ban compared to the percent of politicians who support gay marriage. This shows the importance of the courts in deciding who has access to marriage rights:    
 
-### States that allow SSM by percentage:
-Around 100% - Hawaii, Massachusetts, Vermont, Connecticut, Rhode Island
-Around 75% - New York, Oregon, Maine, New Hampshire, Maryland, Delaware
-Around 50% - Washington, California, Montana, Colorado, New Mexico, Illinois, Virginia, New Jersey, Minnesota,
-Around 25% - South Carolina, North Carolina, West Virginia, Indiana, Pennsylvania, Wisconsin, Iowa, Nevada, Arizona, Alaska
-Around 0% - Idaho, Utah, Wyoming, Oklahoma, Kansas (in certain counties)
-
-### States not allowing SSM by percentage:
-Around 100% - None
-Around 75% - None
-Around 50% - Michigan, Florida, Missouri, Ohio
-Around 25% - South Dakota, North Dakota, Texas, Louisiana, Georgia, Tennessee, Kentucky
-Around 0% - Nebraska, Arkansas, Mississippi, Alabama, Kansas (in certain counties)
+![_config.yml](https://raw.githubusercontent.com/DanielHadley/SameSexMarriage/master/plotsForBlog/tableReddit.png)
 
 
 ## Conclusion
