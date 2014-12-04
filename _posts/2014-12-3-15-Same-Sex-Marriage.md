@@ -27,7 +27,7 @@ The distributions look quite different:
 The politicians plot has more weight on the tails of the distribution, which would indicate that most try to line themselves up with the majority of their constituents. 
 
 
-### Public vs. Political
+## Public vs. Political
 
 Nevertheless, the data indicate that statewide politicians appear to be more conservative than their constituents in many cases.
 
@@ -46,32 +46,32 @@ The same is true of some senators.
 The only place I could find where the opposite is true - a senator approves while the majority opposes - is Louisiana, where Sen. Landrieu is careful to point out that she honors the voters' choice to ban gay marriage. The question is, how much will this change with the incoming 114th Congress?
 
 
-### Political vs Legal
+## Political vs Legal
 
 On another thread, [one redditor](http://www.reddit.com/r/MapPorn/comments/2o7ixt/percent_of_politicians_who_support_samesex/cmkno4d) made a helpful table of places with and without a state ban compared to the percent of politicians who support gay marriage. This shows the importance of the courts in deciding who has access to marriage rights:    
 
-> # States that allow SSM by percentage:
-> Around 100% - Hawaii, Massachusetts, Vermont, Connecticut, Rhode Island
-> Around 75% - New York, Oregon, Maine, New Hampshire, Maryland, Delaware
-> Around 50% - Washington, California, Montana, Colorado, New Mexico, Illinois, Virginia, New Jersey, Minnesota,
-> Around 25% - South Carolina, North Carolina, West Virginia, Indiana, Pennsylvania, Wisconsin, Iowa, Nevada, Arizona, Alaska
-> Around 0% - Idaho, Utah, Wyoming, Oklahoma, Kansas (in certain counties)
+### States that allow SSM by percentage:
+Around 100% - Hawaii, Massachusetts, Vermont, Connecticut, Rhode Island
+Around 75% - New York, Oregon, Maine, New Hampshire, Maryland, Delaware
+Around 50% - Washington, California, Montana, Colorado, New Mexico, Illinois, Virginia, New Jersey, Minnesota,
+Around 25% - South Carolina, North Carolina, West Virginia, Indiana, Pennsylvania, Wisconsin, Iowa, Nevada, Arizona, Alaska
+Around 0% - Idaho, Utah, Wyoming, Oklahoma, Kansas (in certain counties)
 
-> # States not allowing SSM by percentage:
-> Around 100% - None
-> Around 75% - None
-> Around 50% - Michigan, Florida, Missouri, Ohio
-> Around 25% - South Dakota, North Dakota, Texas, Louisiana, Georgia, Tennessee, Kentucky
-> Around 0% - Nebraska, Arkansas, Mississippi, Alabama, Kansas (in certain counties)
+### States not allowing SSM by percentage:
+Around 100% - None
+Around 75% - None
+Around 50% - Michigan, Florida, Missouri, Ohio
+Around 25% - South Dakota, North Dakota, Texas, Louisiana, Georgia, Tennessee, Kentucky
+Around 0% - Nebraska, Arkansas, Mississippi, Alabama, Kansas (in certain counties)
 
 
-### Conclusion
+## Conclusion
 
 In light of these data, I think it is fair to conclude that in 2014 many statewide politicians were more conservative about gay marriage than their constituents. In some cases, though, the difference was insignificant, because court rulings superseded politics as a mechanism for bringing change to marriage laws.   
 
 If you found this analysis interesting, I would encourage you to edit the wikipedia articles on the incoming governors and 114th Congress members. When those appear to be complete, I will update the data and analysis using code I created [here](https://github.com/DanielHadley/SameSexMarriage). In the meantime, feel free to replicate my results and expand on them. 
 
-# Notes
+### Notes
 All data were scraped from Wikipedia on November 15th, 2014. In cases where wikipedia contained two different poll results, I used an average of the two. 
 
 
