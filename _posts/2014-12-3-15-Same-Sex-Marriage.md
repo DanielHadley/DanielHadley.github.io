@@ -39,6 +39,12 @@ The same is true of some senators.
 
 The only place I could find where the opposite is true - a senator approves while the majority opposes - is Louisiana, where Sen. Landrieu is careful to point out that she honors the voters' choice to ban gay marriage. The question is, how much will this change with the incoming 114th Congress?
 
+Finally, there's this: 
+
+![_config.yml](https://raw.githubusercontent.com/DanielHadley/SameSexMarriage/master/plotsForBlog/plot12.png)
+
+On one hand, it is not surprising that there are 22 states where public opposition is below 50% and yet one or more statewide politicians oppose same-sex marriage. This graph shows that many of these states are hovering close to 50%, so coming out in favor could be a risky political move. Also, there are 14 states where the opposite is true (a statewide politician is supportive in a place where less than 50% say they support same-sex marriage). On the other hand, given the [rapid shift](http://www.gallup.com/poll/169640/sex-marriage-support-reaches-new-high.aspx) in public opinion, one might expect a smaller number of opponents in these states.      
+
 
 ## Political vs Legal
 
