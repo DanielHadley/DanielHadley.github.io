@@ -21,4 +21,4 @@ One test of the Clintons' legacy will be if they can make it on to this chart of
 
 ![_config.yml](https://raw.githubusercontent.com/DanielHadley/TimeCovers/master/plots/covers6.png)
 
-If this has intrigued you at all, I encourage you to play one of the quizzes on hugequiz, or check out the [online repositoryy](http://content.time.com/time/coversearch/) of covers. 
+If this has intrigued you at all, I encourage you to play one of the quizzes on hugequiz, or check out the [online repository](http://content.time.com/time/coversearch/) of covers. 
