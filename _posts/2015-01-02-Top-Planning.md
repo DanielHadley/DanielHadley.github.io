@@ -17,5 +17,5 @@ For my job, I read a lot of articles on urban policy and planning. I believe tha
 9. [What Snow Tells Us About Creating Better Public Spaces](http://thisoldcity.com/advocacy/photos-what-snow-tells-us-about-creating-better-public-spaces-e-passyunk-avenue#.VKboACvF_bA)
 10. [The New Cartographers: How a Mapping Renaissance Is Changing the Way We See Cities](http://nextcity.org/features/view/the-new-cartographers)
 
-[This](http://www.nytimes.com/newsgraphics/2013/08/18/reshaping-new-york/) multimedia feature about Mayor Bloomber's legacy is still my favorite planning related article (if you can call it that) of all time. But overall, 2013 was a good year.  
+[This](http://www.nytimes.com/newsgraphics/2013/08/18/reshaping-new-york/) multimedia feature about Mayor Bloomberg's legacy is still my favorite planning related article (if you can call it that) of all time. But overall, 2013 was a good year.  
 
