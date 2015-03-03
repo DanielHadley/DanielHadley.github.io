@@ -66,7 +66,49 @@ Taught section for a Harvard Core course titled "Designing the American City"
 
 ## Proficiency 
 
-My focus is using data to create intelligent public policy. I enjoy writing code, and consider myself advanced in R, with a passable knowledge of Python, Git, Bash (Linux), HTML, CSS, and Markdown. Many of my favorite projects involved machine learning and statistical modeling. My training in planning also included courses in economics, GIS, and design, all of which I use frequently on the job. 
+My focus is using data to create intelligent public policy. I enjoy writing code, and consider myself advanced in R, with a passable knowledge of Python, Git, Bash (Linux), HTML, CSS, and Markdown. Many of my favorite projects involve machine learning and statistical modeling. My training in planning also included courses in economics, GIS, transit-oriented development (TOD), and design, all of which I use frequently on the job. 
 
-On the management side, I have overseen teams of highly technical analysts, department heads, and even public works crews. I often engage with the public, journalists, developers (both real estate and software), and teams of student researchers. 
+On the management side, I have overseen teams of highly technical analysts, department heads, and even public works crews. I often engage with the public, journalists, developers (both real estate and software), and academics.  
+
+****
+
+## Selected Presentations
+
+"Responsive Cities," Panel Discussion, Harvard University, Law School, October 28, 2014.   
+
+"Using Data to Transform Government," *IDEASpHERE Conference*, Harvard University, Kennedy School of Government, May 15, 2014. (Co-facilitated with Linda Bilmes and Joe Curtatone)
+
+"Beyond Excel: An Overview of Advanced Tools," *New England StatNet Conference*, August 20, 2013.
+
+## Teaching
+
+Helping to facilitate fist ever “Innovation Field Lab: Public Problem Solving in Three Massachusetts Cities” (Harvard MLD 621M)
+
+Annual invited guest lecturer at Tufts and the Harvard Graduate School of Design
+
+Manage student teams for Linda Bilmes's class "Advanced Applied Management, Operations, and Budgeting" (Harvard MLD-412M)
+
+****
+
+## Papers
+
+“A Mormon Megaproject,” *MONU Magazine on Urbanism*, v.1, n.10
+
+“The Rebbe in the New York Times,” *Queens College Journal of Jewish Thought*, Spring, 2007
+
+## Selected Press
+
+["Somerville using drones to survey snowy building roofs"](http://www.bostonglobe.com/metro/2015/02/19/somerville-using-drones-survey-snowy-building-roofs/qYXOJ6X3iBaur854JFnuPJ/story.html), the Boston Globe, February 19, 2015.
+
+["From ‘Slummerville’ to Somerville"](http://www.bostonmagazine.com/news/blog/2014/11/25/somerville-video-harvard-kennedy-school/), Boston Magazine, November 25, 2014.
+
+["Some in Somerville worry it's become too hip for its own good"]()
+
+["How Can a City Measure Its Happiness?"](http://nextcity.org/daily/entry/happiest-cities-well-being-survey-policy), Next City, August 19, 2014.
+
+["Here comes StateStat"](http://commonwealthmagazine.org/politics/002-here-comes-statestat/), Commonwealth Magazine, Oct 11, 2012.
+
+[“How Happy Are You? A Census Wants to Know”](http://www.nytimes.com/2011/05/01/us/01happiness.html?pagewanted=all&_r=0), The New York Times, April 30th, 2011.
+
+
 
