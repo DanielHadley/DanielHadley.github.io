@@ -110,5 +110,9 @@ On the management side, I have overseen teams of highly technical analysts, depa
 
 [“How Happy Are You? A Census Wants to Know”](http://www.nytimes.com/2011/05/01/us/01happiness.html?pagewanted=all&_r=0), The New York Times, April 30th, 2011.
 
+****
 
+## Personal Projects
+
+[Rat Maps](http://ratmaps.com/), an automatic blog that draws on open data to map and display statistics on rodent sightings. 
 
