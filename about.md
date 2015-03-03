@@ -102,7 +102,7 @@ On the management side, I have overseen teams of highly technical analysts, depa
 
 ["From ‘Slummerville’ to Somerville"](http://www.bostonmagazine.com/news/blog/2014/11/25/somerville-video-harvard-kennedy-school/), Boston Magazine, November 25, 2014.
 
-["Some in Somerville worry it's become too hip for its own good"]()
+["Some in Somerville worry it's become too hip for its own good"](http://www.bostonglobe.com/lifestyle/style/2013/08/22/some-somerville-worry-become-too-hip-for-its-own-good/Ibas2h5Q5p9MTl82qQ2OwK/story.html), the Boston Globe, Aug 23, 2013.
 
 ["How Can a City Measure Its Happiness?"](http://nextcity.org/daily/entry/happiest-cities-well-being-survey-policy), Next City, August 19, 2014.
 
