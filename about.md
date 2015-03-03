@@ -19,7 +19,7 @@ But the real reason I love working here is the chance to make an immediate diffe
 <center> <h1>CV</h1> </center>
 
 <center> <h2>Daniel Paul Hadley</h2> </center>
-<center> [Email](http://scr.im/32e4) </center>
+<center> <a href="http://scr.im/32e4">Email</a></center>
 <center> 93 Highland Ave, Somerville, MA </center>
 
 ****
@@ -27,12 +27,15 @@ But the real reason I love working here is the chance to make an immediate diffe
 ## Education
 
 ### Harvard University
+
 #### Master of Urban Planning - 2010
 
 ### Harvard University
+
 #### Master of Theological Studies - 2008
 
 ### University of Utah
+
 #### B.A., Middle Eastern Studies - 2006
 
 ****
@@ -40,6 +43,7 @@ But the real reason I love working here is the chance to make an immediate diffe
 ## Experience
 
 ### City of Somerville
+
 #### Chief of Staff - 2014 to Present
 
 I directly oversee cabinet-level positions, managing the day-to-day operations of the City for the Mayor. I also help formulate policies and long-term plans, and in my spare time play the role of Chief Data Scientist.
@@ -49,11 +53,13 @@ I directly oversee cabinet-level positions, managing the day-to-day operations o
 Made policy recommendations based on financial and statistical data analysis; Oversaw a team of analysts and public outreach specialists; Facilitated regular meetings between the Mayor and department heads;
 
 ### Envision Utah
+
 #### Community Service Fellow - Summer 2009
 
 Worked with stakeholders to implement a plan for the Jordan River; Researched funding mechanisms, negotiated between parties, and informed stakeholders; Created a model form-based code; Authored policy documents on urban planning topics.
 
 ### Harvard College
+
 #### Teaching Fellow - Spring 2009
 
 Taught section for a Harvard Core course titled "Designing the American City"
