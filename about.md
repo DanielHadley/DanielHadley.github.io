@@ -96,6 +96,14 @@ On the management side, I have overseen teams of highly technical analysts, depa
 
 ****
 
+## Personal Projects
+
+[Rat Maps](http://ratmaps.com/): an automatic blog that draws on open data to map and display statistics on rodent sightings.
+
+[Gone Model](http://danielphadley.com/Gone-Girl-Prediction/): An experiment that uses machine learning to detect stylometric differences between fictional characters from the same author. Currently expanding to lengthier texts.  
+
+****
+
 ## Selected Press
 
 ["Somerville using drones to survey snowy building roofs"](http://www.bostonglobe.com/metro/2015/02/19/somerville-using-drones-survey-snowy-building-roofs/qYXOJ6X3iBaur854JFnuPJ/story.html), the Boston Globe, February 19, 2015.
@@ -109,10 +117,5 @@ On the management side, I have overseen teams of highly technical analysts, depa
 ["Here comes StateStat"](http://commonwealthmagazine.org/politics/002-here-comes-statestat/), Commonwealth Magazine, Oct 11, 2012.
 
 [“How Happy Are You? A Census Wants to Know”](http://www.nytimes.com/2011/05/01/us/01happiness.html?pagewanted=all&_r=0), The New York Times, April 30th, 2011.
-
-****
-
-## Personal Projects
-
-[Rat Maps](http://ratmaps.com/), an automatic blog that draws on open data to map and display statistics on rodent sightings. 
+  
 
