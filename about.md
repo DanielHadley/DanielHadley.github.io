@@ -62,7 +62,7 @@ Taught section for a Harvard Core course titled "Designing the American City"
 
 ## Proficiency 
 
-My focus is using data to create intelligent public policy. I enjoy writing code, and consider myself advanced in R, with a passable knowledge of Python, Bash (Linux), HTML, CSS, and Markdown. My training in planning also included courses in economics, statistics, GIS, and design, all of which I use frequently on the job. 
+My focus is using data to create intelligent public policy. I enjoy writing code, and consider myself advanced in R, with a passable knowledge of Python, Git, Bash (Linux), HTML, CSS, and Markdown. My training in planning also included courses in economics, statistics, GIS, and design, all of which I use frequently on the job. 
 
 On the management side, I have overseen teams of highly technical analysts, department heads, and even public works crews. I often engage with the public, journalists, developers (both real estate and software), and teams of student researchers. 
 
