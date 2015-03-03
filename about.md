@@ -29,6 +29,7 @@ But the real reason I love working here is the chance to make an immediate diffe
 ### Harvard University
 
 #### Master of Urban Planning - 2010
+
 #### Master of Theological Studies - 2008
 
 ### University of Utah
