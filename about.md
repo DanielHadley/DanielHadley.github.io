@@ -74,27 +74,27 @@ On the management side, I have overseen teams of highly technical analysts, depa
 
 ## Selected Presentations
 
-"Responsive Cities," Panel Discussion, Harvard University, Law School, October 28, 2014.   
++ "Responsive Cities," Panel Discussion, Harvard University, Law School, October 28, 2014.   
 
-"Using Data to Transform Government," *IDEASpHERE Conference*, Harvard University, Kennedy School of Government, May 15, 2014. (Co-facilitated with Linda Bilmes and Joe Curtatone)
++ "Using Data to Transform Government," *IDEASpHERE Conference*, Harvard University, Kennedy School of Government, May 15, 2014. (Co-facilitated with Linda Bilmes and Joe Curtatone)
 
-"Beyond Excel: An Overview of Advanced Tools," *New England StatNet Conference*, August 20, 2013.
++ "Beyond Excel: An Overview of Advanced Tools," *New England StatNet Conference*, August 20, 2013.
 
 ## Teaching
 
-Helping to facilitate fist ever “Innovation Field Lab: Public Problem Solving in Three Massachusetts Cities” (Harvard MLD 621M)
++ Helping to facilitate fist ever “Innovation Field Lab: Public Problem Solving in Three Massachusetts Cities” (Harvard MLD 621M)
 
-Annual invited guest lecturer at Tufts and the Harvard Graduate School of Design
++ Annual invited guest lecturer at Tufts and the Harvard Graduate School of Design
 
-Manage student teams for Linda Bilmes's class "Advanced Applied Management, Operations, and Budgeting" (Harvard MLD-412M)
-
-****
++ Manage student teams for Linda Bilmes's class "Advanced Applied Management, Operations, and Budgeting" (Harvard MLD-412M)
 
 ## Papers
 
-“A Mormon Megaproject,” *MONU Magazine on Urbanism*, v.1, n.10
++ “A Mormon Megaproject,” *MONU Magazine on Urbanism*, v.1, n.10
 
-“The Rebbe in the New York Times,” *Queens College Journal of Jewish Thought*, Spring, 2007
++ “The Rebbe in the New York Times,” *Queens College Journal of Jewish Thought*, Spring, 2007
+
+****
 
 ## Selected Press
 
