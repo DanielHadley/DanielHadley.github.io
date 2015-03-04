@@ -7,17 +7,7 @@ Here's a problem governments are faced with every day: you have a limited amount
 
 I am not an engineer (in fact, part of the reason I am writing this post is to get feedback from engineers); but I have thought a lot about this, and I think I have a decent method for prioritizing roadway repairs that anyone could implement using the open-source program [R](http://en.wikipedia.org/wiki/R_%28programming_language%29). The only prerequisites are that you have reliable data on the Pavement Condition Index (PCI) for the streets you want to optimize, and an estimate of what it would cost to do the repairs. Here is what the data I am using looks like:
 
-{% highlight R %}
-
-                 Functional  STREETNAME                             PlanActivi   PCI  NewPCI     value       cost
-1             AR - Arterial  MYSTIC AVE (SI) 3" Mill & Overlay Art/Col w/ramps 39.59  59.385 104763.83 482141.207
-2    RT - Residential Local MELVILLE RD                        (RM) Crack Seal 87.24 100.000  12402.71   1749.598
-3            CO - Collector  MEDFORD ST (SI) 3" Mill & Overlay Art/Col w/ramps 41.22  61.830  84061.24 371566.162
-4            CO - Collector  MEDFORD ST (SI) 3" Mill & Overlay Art/Col w/ramps 41.22  61.830  63350.50 280020.876
-5            CO - Collector  MEDFORD ST (SI) 3" Mill & Overlay Art/Col w/ramps 41.22  61.830  69964.01 309253.824
-6 RE - Residential Dead End   NASHUA ST                 (PM) Pavement Patching 59.22  88.830  48428.75  30257.748
-
-{% endhighlight %}
+![_config.yml]({{ site.baseurl }}/images/2015/StreetData.png) 
 
 PCI is the current condition. New PCI is an estimate of the street's condition if we were to do the "PlanActivity," i.e., repair. The "value" column is just the delta between the old and new PCIs multiplied by the square yards of the street; And cost is total cost - not normalized by square yards. 
 
