@@ -121,3 +121,41 @@ On the management side, I have overseen teams of highly technical analysts, depa
 [“How Happy Are You? A Census Wants to Know”](http://www.nytimes.com/2011/05/01/us/01happiness.html?pagewanted=all&_r=0), The New York Times, April 30th, 2011.
   
 
+<!--- Accomplishments
+	### Statistical Analysis
+	+ Analyzed survey data and uncovered the link between wellbeing and city services
+	+ Found that people in the single stream pilot ranked 2 and 3 SD higher on satisfaction
+	+ Demonstrated a link between citation issuance and arrests
+	+ Predicted % of residents who generated more waste than 65 gallons using average tonnage plus distribution from data on visible trash. Bought larger bins.
+	+ Descriptive and predictive stats for rats. 30% Decrease demonstrated by CausalImpact tool.
+	+ Property values
+	+ Pedestrian collisions - traffic sign at Highland and Grove
+	+ Discovered discrepancy between assessments and building permits
+	+ Predicted high school enrollment for coming years
+	+ Modeled the age of roadways as a function of PCI
+
+	### Financial Analysis
+	+ Did complex financial analysis of streetlights, as well as a 10% audit: 400k savings 
+	+ Worked with finance on the analysis of collective bargaining agreements
+	+ Used data on tipping fees and CPI to predict price changes in our Waste Management cont.
+	+ Championed the road pavement plan. Predicted large savings for preventive maintenance. 
+
+	### Policy Analysis
+	+ Capital planning
+
+	### Cost Savings
+	+ Consulting fees: food trucks, streetlights, preventive maintenance, capital planning, etc.
+	+ Recommendation: street lights, staffing in Elections (OT), 311, capital planning, postage
+	ticket glitch, smart cars, 
+
+	### Accountability
+	+ DPW score card, supervision of OT, 311 data, Fire CAD calls, Preventive Maintenance 
+
+	### Hacking
+	+ Online payments
+	+ Data dashboard
+	+ Daily data dumps from 311, ISD, etc
+	+ Automated several hours worth of charts and mapping
+	+ MCAS visualization 
+
+
