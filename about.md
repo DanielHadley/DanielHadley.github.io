@@ -121,7 +121,8 @@ On the management side, I have overseen teams of highly technical analysts, depa
 [“How Happy Are You? A Census Wants to Know”](http://www.nytimes.com/2011/05/01/us/01happiness.html?pagewanted=all&_r=0), The New York Times, April 30th, 2011.
   
 
-<!--- Accomplishments
+<!--- 
+	Accomplishments 
 	### Statistical Analysis
 	+ Analyzed survey data and uncovered the link between wellbeing and city services
 	+ Found that people in the single stream pilot ranked 2 and 3 SD higher on satisfaction
@@ -157,5 +158,5 @@ On the management side, I have overseen teams of highly technical analysts, depa
 	+ Daily data dumps from 311, ISD, etc
 	+ Automated several hours worth of charts and mapping
 	+ MCAS visualization 
-
+-->
 
