@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How My City Is Fighting Rats (and Winning)
+title: Data Science vs City Rats
 ---
 
 *Somerville, MA has been fighting a war against rats for months, and now we have the data to show that it's working: reported sightings have dropped an estimated 40%.*
