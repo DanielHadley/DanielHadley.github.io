@@ -3,7 +3,7 @@ layout: post
 title: How My City Is Fighting Rats (and Winning)
 ---
 
-* Somerville, MA has been fighting a war against rats for months, and now we have the data to show that it's working: reported sightings have dropped an estimated 40%. *
+*Somerville, MA has been fighting a war against rats for months, and now we have the data to show that it's working: reported sightings have dropped an estimated 40%.*
 
 Three years ago, the city where I work was dealing with an onslaught of rats. Like its neighbor Boston, Somerville had just emerged from one of its mildest winters in history. [Winter Storm Juno](http://en.wikipedia.org/wiki/January_2015_North_American_blizzard) alone dumped more than three times as much snow on the region than was recorded during the entire winter of 2011-2012. And as a result, the rodent population seemed to grow out of hand that spring. 
 
