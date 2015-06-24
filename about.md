@@ -100,7 +100,9 @@ On the management side, I have overseen teams of highly technical analysts, depa
 
 ## Personal Projects
 
+<!---
 [Rat Maps](http://ratmaps.com/): an automatic blog that draws on open data to map and display statistics on rodent sightings.
+-->
 
 [Gone Model](http://danielphadley.com/Gone-Girl-Prediction/): An experiment that uses machine learning to detect stylometric differences between fictional characters from the same author. Currently expanding to lengthier texts.  
 
