@@ -108,6 +108,8 @@ On the management side, I have overseen teams of highly technical analysts, depa
 
 ## Selected Press
 
+["This City Used Big Data to Beat a Big Rat Problem"](http://nextcity.org/daily/entry/rat-problem-cities-big-data-solution-somerville-mass), Next City, June 23, 2015.
+
 ["Somerville using drones to survey snowy building roofs"](http://www.bostonglobe.com/metro/2015/02/19/somerville-using-drones-survey-snowy-building-roofs/qYXOJ6X3iBaur854JFnuPJ/story.html), the Boston Globe, February 19, 2015.
 
 ["From ‘Slummerville’ to Somerville"](http://www.bostonmagazine.com/news/blog/2014/11/25/somerville-video-harvard-kennedy-school/), Boston Magazine, November 25, 2014.
