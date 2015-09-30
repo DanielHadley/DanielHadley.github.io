@@ -9,6 +9,14 @@ I am testing d3.js
 
 Ok. So this is what we've got so far:
 
+<pre class="codepen" data-height="300" data-type="result" data-href="wakhK" data-user="mshwery" data-safe="true"><code></code><a href="http://codepen.io/mshwery/pen/wakhK">Check out this Pen!</a></pre>
+<script async src="http://codepen.io/assets/embed/ei.js"></script>
+
+<figure class="final">
+  <figcaption>The final result</figcaption>
+</figure>
+
+<a href="http://codepen.io/mshwery/pen/uCBbn" class="codepen" target="_blank">Check out the code in action on CodePen</a>
 
 <style>
   svg {
