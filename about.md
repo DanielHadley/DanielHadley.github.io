@@ -76,6 +76,8 @@ On the management side, I have overseen teams of highly technical analysts, depa
 
 ## Selected Presentations
 
++ "The Top 10 Mistakes Civic Startups Make When Pitching to Government," *Code For America Summit*, Oakland, CA, 2015. (Co-presented with Joe Curtatone, Skye Stewart, and Denise Taylor)
+
 + "Responsive Cities," Panel Discussion, Harvard University, Law School, October 28, 2014.   
 
 + "Using Data to Transform Government," *IDEASpHERE Conference*, Harvard University, Kennedy School of Government, May 15, 2014. (Co-facilitated with Linda Bilmes and Joe Curtatone)
@@ -84,7 +86,7 @@ On the management side, I have overseen teams of highly technical analysts, depa
 
 ## Teaching
 
-+ Helping to facilitate fist ever “Innovation Field Lab: Public Problem Solving in Three Massachusetts Cities” (Harvard MLD 621M)
++ Helping to facilitate second annual “Innovation Field Lab: Public Problem Solving in Three Massachusetts Cities” (Harvard MLD 621M)
 
 + Annual invited guest lecturer at Tufts and the Harvard Graduate School of Design
 
