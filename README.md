@@ -10,5 +10,4 @@ My website, danielphadley.com
 + Summary of CfA talk 
 + How I am Building a Government Dashboard in R
 + Pi Dashboard
-+ Recipe randomizer
-+ SimCity Mayors Have More Data Than Real Ones 
++ Recipe randomizer 
