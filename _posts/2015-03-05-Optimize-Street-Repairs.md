@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Optimize Street Repair Spending
+visible: 1
 ---
 
 Here's a problem governments are faced with every day: you have a limited amount of resources to maintain aging infrastructure, in this case streets. Do you spend more on crack sealing and preventive maintenance, or full depth reclamation? Which streets should you fix first? 

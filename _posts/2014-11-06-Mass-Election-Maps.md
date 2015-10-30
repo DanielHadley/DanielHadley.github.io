@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Maps of the 2014 Massachusetts Elections
+visible: 1
 ---
 
 Most of the maps I have seen so far color each city or town either red or blue based on the majority outcome. That works fine, for the most part, but I prefer to see the range of voting patterns. These heat maps go from light yellow to dark blue. The scale changes on each one in order to show the full spectrum. I managed to automate their creation in R.  

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How To Automate Map Making in R
+visible: 1
 ---
 
 In my [last post]({{ site.baseurl }}/Mass-Election-Maps/), I displayed a series of maps from the 2014 Massachusetts midterm election. In all, I created 17 maps, all with fewer than 20 lines of code. Here's how...

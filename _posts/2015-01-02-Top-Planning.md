@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Top Urban Planning Articles of 2014
+visible: 1
 ---
 
 For my job, I read a lot of articles on urban policy and planning. I believe that the best policies are usually borrowed from other cities rather than fabricated from nothing. In that spirit, I even borrowed from other top ten lists to create this post. I like to think that my list is more comprehensive than some of the others since I have no incentive to link to my own content. *Caveat emptor*: I use the term planning loosely. Some of these are more inspirational than germane.   

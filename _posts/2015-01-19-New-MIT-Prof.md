@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How a New MIT Professor Spent His Year
+visible: 1
 ---
 
 Last year, [my friend](http://web.mit.edu/polisci/people/faculty/rich-nielsen.html) pulled 34 all-nighters, surfed 37 days, swam 62, helped to raise two kids, did 12,920 push ups, worked a total of 3,008 hours as a new poli-sci professor, and tracked all of it in a spreadsheet. He averaged 8.2 hours of work per day, including weekends and holidays. As this heatmap shows, though, his hours varied a lot compared to us regular nine-to-fivers:

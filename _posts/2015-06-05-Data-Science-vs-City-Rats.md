@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Data Science vs City Rats
+visible: 1
 ---
 
 *Somerville, MA has been fighting a war against rats for months, and now we have the data to show that it's working: reported sightings have dropped 66% year-to-date; some of that is due to weather patterns and random fluctuation, but a Bayesian model of the data estimates that the City's policies have reduced calls by 40%.*

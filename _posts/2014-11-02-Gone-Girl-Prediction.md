@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Using Machine Learning to Detect Stylometric Differences Between Nick and Amy in Gone Girl
+visible: 1
 ---
 
 I wanted to see if it was possible to train a model to detect the difference between two fictional authors created by the same novelist based only on the frequency of common stop words, e.g., "the." It worked: The randomForest model correctly selected Nick 93% of the time and Amy 91%. 

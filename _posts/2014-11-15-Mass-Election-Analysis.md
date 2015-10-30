@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Data Analysis of the 2014 Mass. Gubernatorial Election
+visible: 1
 ---
 
 Coakley received a lot of votes from residents of Massachusetts's major cities. This is evident in the maps I posted [last week]({{ site.baseurl }}/Mass-Election-Maps/), and in the charts below. What may be surprising is how many votes Baker received in cities, including Boston:
