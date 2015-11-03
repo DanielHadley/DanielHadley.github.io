@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Political and Public Opinion of Same-Sex Marriage, by State
-visible: 0
 ---
 
 According to polling data, this is a current map of popular support for same-sex marriage:

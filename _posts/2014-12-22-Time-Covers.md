@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Most Magazine Covers of All "Time"
-visible: 0
 ---
 
 Time is a weekly news magazine that was first published in New York City in 1923. After my last post, a generous redditor offered to share with me a dataset of every person who has appeared on the cover since its first issue. It turns out he had painstakingly collected this data for a very cool website he created called hugequiz.com, where there are multiple quizzes on [this subject](http://hugequiz.com/?s=time+magazine). Fortunately, I don't think it will spoil any of the quizzes to see this chart of the most frequently featured people:
