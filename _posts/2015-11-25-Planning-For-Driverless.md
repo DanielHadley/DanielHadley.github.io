@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Urban Planning in the Dawn of the Driverless Car
+visible: 1
 ---
 
 Mayor Curtatone and I recently returned from the Smart Cities Expo in Barcelona Spain, where we unveiled a [new partnership](http://audi-urban-future-initiative.com/blog/somerville-test-laboratory-future-urban-mobility) between the City of Somerville and the car manufacturer Audi. We will be testing how autonomous vehicles work in an actual urban environment.
@@ -22,7 +23,7 @@ Somerville will not be a static lab. One of the most exciting and intriguing asp
 
 Somerville may help to solve one of the most pressing questions that driverless vehicles pose: how will they integrate with public transportation, cycling, walking, and other modes of transportation? 
 
-It's not difficult to envision a future where you tap your wallet to hop on the green line, get off to an expectant Audi, and then have it drive you to the edge of Davis Square, where your smartphone tells you it will be faster to walk the final leg to your job at the hoverboard shop (at which point you will curse yourself for forgetting your hoverboard at work in the first place).
+It's not difficult to envision a future where you tap your wallet to hop on the green line, get off to an expectant Audi, and then have it drive you to the edge of Davis Square, where your smartphone tells you it will be faster to walk the final mile to your job at the hoverboard shop (at which point you will curse yourself for forgetting your hoverboard at work in the first place).
 
 In any case, it *is* difficult to envision a future in which the practice of urban design is unchanged by driverless technology. Planners are usually very good at, well, planning. Why we are not planning for this is a mystery.  
 
