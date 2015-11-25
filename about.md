@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am the Chief of Staff to Mayor Joe Curtatone of Somerville, Massachusetts. (*DISCLAIMER: I don't speak for the Mayor or the City on this blog. These are my opinions.*) Previously I was the director of the Mayor's Office of Innovation and Analytics. Prior to that I studied urban planning at Harvard. 
+I am the Chief of Staff to Mayor Joe Curtatone of Somerville, Massachusetts, and an Innovations in American Government Fellow with the Harvard Kennedy School Ash Center. (*DISCLAIMER: I don't speak for the Mayor, City, or Harvard on this blog. These are my opinions.*) Previously I was the director of the Mayor's Office of Innovation and Analytics, and prior to that I studied urban planning. 
 
 ### About Somerville
 
