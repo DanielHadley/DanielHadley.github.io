@@ -110,6 +110,14 @@ On the management side, I have overseen teams of highly technical analysts, depa
 
 ## Selected Press
 
+["Only 6% of Cities are Preparing for Driverless Cars"](http://fortune.com/2015/12/02/somerville-driverless-car/), Fortune, December 2, 2015.
+
+["This car will park itself: Somerville, Audi prepare to test self-driving tech"](http://www.betaboston.com/news/2015/11/24/this-car-will-park-itself-somerville-audi-prepare-to-test-self-driving-tech/), Beta Boston, November 11, 2015.
+
+["Experiencing Innovation"](http://ash.harvard.edu/news/experiencing-innovation), HKS Ash Center, October 29, 2015.
+
+["Elon Musk and dozens of Mass. technologists call for a killer-robot ban"](http://www.bizjournals.com/boston/blog/startups/2015/07/elon-musk-and-dozens-of-mass-technologists-call.html), Boston Business Journal, July 28, 2015.
+
 ["This City Used Big Data to Beat a Big Rat Problem"](http://nextcity.org/daily/entry/rat-problem-cities-big-data-solution-somerville-mass), Next City, June 23, 2015.
 
 ["Somerville using drones to survey snowy building roofs"](http://www.bostonglobe.com/metro/2015/02/19/somerville-using-drones-survey-snowy-building-roofs/qYXOJ6X3iBaur854JFnuPJ/story.html), the Boston Globe, February 19, 2015.
