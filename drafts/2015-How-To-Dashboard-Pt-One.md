@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I Am Building a Data Dashboard in R and Javascript, Part 1: Pipelines
+title: How to Build a Data Dashboard using R (knitr), HTML, and Javascript (Highcharts, Leaflet)
 visible: 1
 ---
 
