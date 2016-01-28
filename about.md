@@ -13,7 +13,7 @@ Mayor Curtatone is a great boss. He transformed the city from 'Slumerville' to "
 But the real reason I love working here is the chance to make an immediate difference in people's lives by crafting intelligent, data-driven policies.    
 
 
-![_config.yml]({{ site.baseurl }}/images/2014_Bio/DanielHadley3.jpg)
+<!--- ![_config.yml]({{ site.baseurl }}/images/2014_Bio/DanielHadley3.jpg) -->
 
 
 <center> <h1>CV</h1> </center>
