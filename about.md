@@ -110,9 +110,15 @@ On the management side, I have overseen teams of highly technical analysts, depa
 
 ## Selected Press
 
+["Survey says: Happiness grows in Somerville"](https://www.bostonglobe.com/metro/regionals/north/2016/02/09/survey-says-happiness-grows-somerville/gRVG7rbqhNGFki8OcrSmLI/story.html), the Boston Globe, February 9, 2016.
+
+["Cities Using 311 Data in Novel Ways Discover Drawbacks"](http://www.govtech.com/data/Cities-Using-311-Data-in-Novel-Ways-Discover-Drawbacks.html), Government Technology, January 6, 2016. 
+
 ["Only 6% of Cities are Preparing for Driverless Cars"](http://fortune.com/2015/12/02/somerville-driverless-car/), Fortune, December 2, 2015.
 
 ["This car will park itself: Somerville, Audi prepare to test self-driving tech"](http://www.betaboston.com/news/2015/11/24/this-car-will-park-itself-somerville-audi-prepare-to-test-self-driving-tech/), Beta Boston, November 11, 2015.
+
+["A Medium-Size City’s Approach to Data"](http://www.routefifty.com/2015/11/somerville-massachusetts-stat-program/123465/), Route Fifty, November 5, 2015.
 
 ["Experiencing Innovation"](http://ash.harvard.edu/news/experiencing-innovation), HKS Ash Center, October 29, 2015.
 
