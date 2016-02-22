@@ -100,9 +100,11 @@ On the management side, I have overseen teams of highly technical analysts, depa
 
 ****
 
-## Personal Projects
+## Technical Projects
 
-[Rat Maps](http://ratmaps.com/): an automatic blog that draws on open data to map and display statistics on rodent sightings.
+[Mayor's Dashboard](http://www.somervillema.gov/dashboard/): Displays key data of interest to residents of Somerville. The [daily](http://www.somervillema.gov/dashboard/daily.html) tab is an algorithm-driven dashboard with charts and maps of variables that changed in statistically significant ways.   
+
+[Rat Maps](http://ratmaps.com/): An automatic blog that draws on open data to map and display statistics on rodent sightings.
 
 [Gone Model](http://danielphadley.com/Gone-Girl-Prediction/): An experiment that uses machine learning to detect stylometric differences between fictional characters from the same author. Currently expanding to lengthier texts.  
 
