@@ -108,7 +108,7 @@ $(function() {
 
 {% endhighlight %}
 
-The parts to pay attention to are the ones in the HTML that say <!--rinline I(X) -->. These are the values from your R analysis that will get "woven in" to regular HTML using the Rhtml file. [Yihui Xie](http://yihui.name/knitr/), knitr's heroic creator, describes this method [here](http://yihui.name/knitr/demo/output/).
+The parts to pay attention to are the ones in the HTML that say ```rinline I(X)```. These are the values from your R analysis that will get "woven in" to regular HTML using the Rhtml file. [Yihui Xie](http://yihui.name/knitr/), knitr's heroic creator, describes this method [here](http://yihui.name/knitr/demo/output/).
 
 I created a repository [here](https://github.com/DanielHadley/DashboardTutorialR) that contains the simple example outlined above, plus the slightly redacted files that I use to power [our dashboard](http://www.somervillema.gov/dashboard/daily.html). The great thing is that Yihui has created a system where you can easily combine the analytical horsepower of R with virtually any charting library. 
 
