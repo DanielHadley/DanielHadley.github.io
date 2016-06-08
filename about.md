@@ -154,6 +154,8 @@ On the management side, I have overseen teams of highly technical analysts, depa
 	+ Discovered discrepancy between assessments and building permits
 	+ Predicted high school enrollment for coming years
 	+ Modeled the age of roadways as a function of PCI
+	+ Modeled fire response times for possible station locations and made crucial reccomendations about properties
+	+ Estimated the effectiveness of our rodent policies using time-series model with Boston as control
 
 	### Financial Analysis
 	+ Did complex financial analysis of streetlights, as well as a 10% audit: 400k savings 
@@ -163,11 +165,15 @@ On the management side, I have overseen teams of highly technical analysts, depa
 
 	### Policy Analysis
 	+ Capital planning
+	+ BLM
+	+ Police body cams
+	+ Residential parking permit increases
+	+ Audi self-driving car focus
 
 	### Cost Savings
 	+ Consulting fees: food trucks, streetlights, preventive maintenance, capital planning, etc.
 	+ Recommendation: street lights, staffing in Elections (OT), 311, capital planning, postage
-	ticket glitch, smart cars, 
+	ticket glitch, smart cars, fire station 
 
 	### Accountability
 	+ DPW score card, supervision of OT, 311 data, Fire CAD calls, Preventive Maintenance 
@@ -178,5 +184,10 @@ On the management side, I have overseen teams of highly technical analysts, depa
 	+ Daily data dumps from 311, ISD, etc
 	+ Automated several hours worth of charts and mapping
 	+ MCAS visualization 
+
+	### Project Management
+	+ Innovation Field Lab with HKS
+	+ Audi Urban Innovations
+	+ Revamped SomerStat - e.g., more, but shorter meetings
 -->
 
