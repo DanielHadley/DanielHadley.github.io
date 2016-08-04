@@ -4,13 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I am the Chief of Staff to Mayor Joe Curtatone of Somerville, Massachusetts, and an Innovations in American Government Fellow with the Harvard Kennedy School Ash Center. (*DISCLAIMER: I don't speak for the Mayor, City, or Harvard on this blog. These are my opinions.*) Previously I was the director of the Mayor's Office of Innovation and Analytics, and prior to that I studied urban planning. 
+I am a Data Scientist with the [Sorenson Impact Center](http://eccles.utah.edu/sorenson-impact-center/), an applied academic institution at the at the University of Utah’s Business School. My job is to help governments, non-profits, and philanthropists use data to better address difficult social problems. (*DISCLAIMER: I don't speak for the Center or any of its affiliates on this blog. These are my opinions.*)
 
-### About Somerville
-
-Mayor Curtatone is a great boss. He transformed the city from 'Slumerville' to "[The Best Run City in the State](http://www.boston.com/news/globe/magazine/articles/2006/05/14/the_model_city/)." We were listed as one of the most [innovative cities in the Country](http://www.washingtonpost.com/blogs/govbeat/wp/2014/10/07/the-most-influential-cities-in-the-country-according-to-mayors/) in a national survey of mayors, and our happiness survey was featured on the [front page](http://www.nytimes.com/2011/05/01/us/01happiness.html?pagewanted=all&_r=0) of the New York Times. 
-
-But the real reason I love working here is the chance to make an immediate difference in people's lives by crafting intelligent, data-driven policies.    
+Previously, I served as the Chief of Staff and Chief Data Scientist to Mayor Joe Curtatone of [Somerville, Massachusetts](http://www.boston.com/news/globe/magazine/articles/2006/05/14/the_model_city/), and as an Innovations in American Government Fellow with the Harvard Kennedy School Ash Center. 
 
 
 <!--- ![_config.yml]({{ site.baseurl }}/images/2014_Bio/DanielHadley3.jpg) -->
@@ -42,9 +38,15 @@ B.A. - 2006
 
 ## Experience
 
+### Sorenson Impact Center
+
+#### Data Scientist
+
+I work with organizations around the western US to help them more easily access and analyze data. 
+
 ### City of Somerville
 
-#### Chief of Staff - 2014 to Present
+#### Chief of Staff - 2014 to 2016
 
 I directly oversee cabinet-level positions, managing the day-to-day operations of the City for the Mayor. I also help formulate policies and long-term plans, and in my spare time play the role of Chief Data Scientist.
 
@@ -111,6 +113,8 @@ On the management side, I have overseen teams of highly technical analysts, depa
 ****
 
 ## Selected Press
+
+["What the Mayor of Somerville Can Do With His Smartphone"](https://nextcity.org/daily/entry/mayor-somerville-smartphone-data-open-gov), Next City, July 13, 2016.
 
 ["Survey says: Happiness grows in Somerville"](https://www.bostonglobe.com/metro/regionals/north/2016/02/09/survey-says-happiness-grows-somerville/gRVG7rbqhNGFki8OcrSmLI/story.html), the Boston Globe, February 9, 2016.
 
