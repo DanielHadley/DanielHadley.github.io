@@ -9,7 +9,7 @@ I am a Data Scientist at the [Sorenson Impact Center](http://eccles.utah.edu/sor
 Previously, I served as the Chief of Staff and Chief Data Scientist to Mayor Joe Curtatone of [Somerville, Massachusetts](http://www.boston.com/news/globe/magazine/articles/2006/05/14/the_model_city/), and as an Innovations in American Government Fellow with the Harvard Kennedy School Ash Center. 
 
 
-![_config.yml]({{ site.baseurl }}/images/Daniel_Hadley_2016.jpg)
+![_config.yml]({{ site.baseurl }}/images/Daniel_Hadley_2016.jpg =250x)
 
 
 <center> <h1>CV</h1> </center>
