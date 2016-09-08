@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="http://danielphadley.com/images/Daniel_Hadley_2016.jpg" alt="Headshot" style="width: 230px;" align="left"/>
+<img src="http://danielphadley.com/images/Daniel_Hadley_2016.jpg" alt="Headshot" style="width: 250px;" align="left"/>
 
 I am a Data Scientist at the [Sorenson Impact Center](http://eccles.utah.edu/sorenson-impact-center/), an applied academic institution that is part of the University of Utah’s Business School. My job is to help governments, non-profits, and philanthropists use data to better address difficult social problems. (*DISCLAIMER: I don't speak for the Center or any of its affiliates on this blog. These are my opinions.*)
 
