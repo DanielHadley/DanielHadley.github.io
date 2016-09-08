@@ -1,6 +1,7 @@
 ---
 layout: post
 title: From Jupyter Notebooks to R Markdown 
+visible: 1
 ---
 
 I started using Jupyter Notebooks back when they were called IPython. I even remember having to set up a virtual Linux environment because they were not available on Windows. As much as I have enjoyed their functionality, I recently switched entirely to R Markdown in an RStudio environment. Here's why. 
