@@ -19,7 +19,7 @@ For instance, data scientists at Google, Twitter and Airbnb have released softwa
 ### The Bazaar
 Open-source software has been described as a [metaphorical bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar). As opposed to a Cathedral — where top-down decisions drive proprietary software — the Bazaar is a place where people from all over the globe can help fix bugs and generate a final product that is free thereafter. In our proposal to the federal government, we volunteered to serve as "guides to the Bazaar," helping governments and nonprofits identify and learn how to utilize these rich resources.
 
-At the risk of sounding like techno-utopians, we think this approach of using big data tools has the potential to help solve some of our biggest social problems. One can imagine employing Artificial Neural Networks to identify the parolees who are most in need of social work, or the students who need of advanced tutoring. At the very least, we can use packages in the programming languages Python and R to transfer and merge data so that it is useful to service providers.
+At the risk of sounding like techno-utopians, we think this approach of using big data tools has the potential to help solve some of our biggest social problems. One can imagine employing Artificial Neural Networks to identify the parolees who are most in need of social work, or the students who need advanced tutoring. At the very least, we can use packages in the programming languages Python and R to transfer and merge data so that it is useful to service providers.
 
 If this work sounds appealing to you, please reach out. We are hiring data scientists.
 
