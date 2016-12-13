@@ -148,6 +148,26 @@ On the management side, I have overseen teams of highly technical analysts, depa
 
 <!--- 
 	Accomplishments 
+
+	# SIC
+	### Grants
+	+ Lead author $1.5 million ADP, alongside Raj Chetty and Urban 
+	+ Hiring high-skilled team and getting word out about RFP
+	+ Lead author on $100k performance management grant awarded to UAC by CCJJ
+
+	### Analysis
+	+ Stochastic agent-based model of recidivism - currently creating app
+	+ Statistical analysis of Idaho test score data
+	+ Helping Caroline with cost-benefit model
+	+ Helped land the $60k contract for JRI analysis
+	+ tracking down data for JRI analysis - 
+	+ communicating with UAC and sheriffs; managing IRB
+
+	### Communications
+	+ Presented at EARL Boston, Give SLC, and Utah League of Cities and Towns
+	+ Small-scale pro-bono consulting to CCJJ, SL County, and Utah IDC    
+
+
 	### Statistical Analysis
 	+ Analyzed survey data and uncovered the link between wellbeing and city services
 	+ Found that people in the single stream pilot ranked 2 and 3 SD higher on satisfaction
