@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Prison Analyst's Dilemma: Using R to Model Recidivism
+title: The Prison Analyst's Dilemma - Using R to Model Recidivism
 visible: 1
 ---
 
