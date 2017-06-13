@@ -79,6 +79,8 @@ On the management side, I have overseen teams of highly technical analysts, depa
 
 ## Selected Presentations
 
++ "Saving Taxpayer Dollars with R," *EARL Conference*, Boston, MA, 2016. 
+
 + "The Top 10 Mistakes Civic Startups Make When Pitching to Government," *Code For America Summit*, Oakland, CA, 2015. (Co-presented with Joe Curtatone, Skye Stewart, and Denise Taylor)
 
 + "Responsive Cities," Panel Discussion, Harvard University, Law School, October 28, 2014.   
