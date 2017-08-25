@@ -71,9 +71,9 @@ Taught section for a Harvard Core course titled "Designing the American City"
 
 ## Proficiency 
 
-My focus is using data to create intelligent public policy. I enjoy writing code, and consider myself advanced in R, with a passable knowledge of Python, Git, Bash (Linux), HTML, CSS, and Markdown. Many of my favorite projects involve machine learning and statistical modeling. My training in planning also included courses in economics, GIS, transit-oriented development (TOD), and design, all of which I use frequently on the job. 
+My focus is using data to create intelligent public policy. I enjoy writing code, and consider myself advanced in R, with a passable knowledge of Python, Git, Bash (Linux), HTML, CSS, and Markdown. Many of my favorite projects involve machine learning and statistical modeling.  
 
-On the management side, I have overseen teams of highly technical analysts, department heads, and even public works crews. I often engage with the public, journalists, developers (both real estate and software), and academics.  
+On the management side, I have overseen teams of highly technical analysts and department heads. I often engage with the public, journalists, leaders from the social sector, and academics.  
 
 ****
 
@@ -109,13 +109,17 @@ On the management side, I have overseen teams of highly technical analysts, depa
 
 [Mayor's Dashboard](http://www.somervillema.gov/dashboard/): Displays key data of interest to residents of Somerville. The [daily](http://www.somervillema.gov/dashboard/daily.html) tab is an algorithm-driven dashboard with charts and maps of variables that changed in statistically significant ways.   
 
-[Rat Maps](http://ratmaps.com/): An automatic blog that draws on open data to map and display statistics on rodent sightings.
+[RecidiViz](https://daniel-hadley.shinyapps.io/Recidivism_App/): A Shiny app to simulate and analyze the rate at which parolees return to prison following their release.
 
 [Gone Model](http://danielphadley.com/Gone-Girl-Prediction/): An experiment that uses machine learning to detect stylometric differences between fictional characters from the same author. Currently expanding to lengthier texts.  
 
 ****
 
 ## Selected Press
+
+["What This Salt Lake City Heatmap Tells Us About Drug Crime"](https://www.citylab.com/equity/2017/08/what-this-map-of-salt-lake-citys-drug-hotspot-really-show/536214/), CityLab, August 11, 2017.
+
+["Is Utah's prison reform working?"](http://www.deseretnews.com/article/865686173/Is-Utahs-prison-reform-working.html), Deseret News, August 5th, 2017.
 
 ["What the Mayor of Somerville Can Do With His Smartphone"](https://nextcity.org/daily/entry/mayor-somerville-smartphone-data-open-gov), Next City, July 13, 2016.
 
