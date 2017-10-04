@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Bayesian Flips Two Coins
+title: Bayes' Puzzle Powers
 visible: 1
 description: Solving a 538 puzzle with Bayesian updating using R
 tags:
@@ -19,7 +19,9 @@ Instead of flipping both until we are certain they produce two different distrib
 
 In other words, Bayesian updating identifies the correct coin almost 5x faster in terms of flips needed.
 
-I've pasted the code below. I'm not 95% certain this is correct. I ported the code for updating directly from Bayes' formula, after all, and I devised the test to see if it works. I'm also doubtful it's the only method that arrives at a solution so quickly. There must be a frequentist approach, right? What about [Pearson's test](https://en.wikipedia.org/wiki/Likelihood-ratio_test#Coin_tossing) after each flip? Would that also converge on 74?     
+I've pasted the code below. I'm not 95% certain this is correct, or that it fits within the rules of Oliver's riddle. I ported the code for updating directly from Bayes' formula, after all, and I devised the test to see if it works. I'm also doubtful it's the only method that arrives at a solution so quickly. There must be a frequentist approach, right? What about [Pearson's test](https://en.wikipedia.org/wiki/Likelihood-ratio_test#Coin_tossing) after each flip? Would that also converge on 74?
+
+That said, this does seem like the ideal kind of problem for Bayesian sequential updating. The prior is certain, and relatively high. Thinking beyond coins, which are always a proxy for more interesting real-world binomial problems, it's easy to see the value in a 254 year old formula.         
 
 {% highlight R %}
 #### Method two: Bayesian updating simulation ####
