@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deranged X-Mas: a Gift Exchange Puzzle
+title: Deranged X-Mas - a Gift Exchange Puzzle
 visible: 1
 description: The solution to a puzzle using derangements in R. 
 tags:
