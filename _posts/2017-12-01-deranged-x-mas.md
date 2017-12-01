@@ -39,7 +39,7 @@ The combinations with person 1, aka Sara, and person 6, aka Lisa, look like this
 
 * [(1,6)(2,5)(3,4)] 
 * [(1,6)(2,4)(3,5)] 
-* [(1-6)(2,3)(4,5)]
+* [(1,6)(2,3)(4,5)]
 
 You can then repeat that chain with siblings 2, 3, 4, and 5.
 
