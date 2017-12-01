@@ -23,7 +23,7 @@ While planning a holiday gift exchange this week, my wife casually challenged me
 
 > So everyone is giving to the same person that is giving to them. How often will this phenomenon happen? Dan, give us a statistical analysis ASAP!
 
-(Note: names *not* changed for privacy. I actually have a brother-in-law named Thurop, which is pretty cool.)
+(Note: they do a rotation, but we will pretend it's random. Also, names *not* changed for privacy. I actually have a brother-in-law named Thurop, which is pretty cool.)
 
 I fumbled around with permutations for a while before reading that situations like these are actually [derangements](http://mathworld.wolfram.com/Derangement.html) - permutations of sets where no element appears in its original position. In the case of a six sibling gift exchange, there are 265 derangements. So now we have the denominator.
 
